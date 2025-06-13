@@ -41,4 +41,4 @@ Ce projet a solidifié ma compréhension de la structure de base d'un site web. 
 
 ### 🙏 Remerciements
 
-Ce projet a été réalisé en suivant les instructions et la philosophie de **The Odin Project**.
+Ce projet a été réalisé en suivant les instructions du cursus de **The Odin Project**.
