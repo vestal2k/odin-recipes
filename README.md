@@ -12,7 +12,11 @@ Ce projet démontre ma capacité à structurer un contenu web sur plusieurs page
 
 ## 📸 Aperçu
 
-![Capture d'écran de la page d'accueil du projet Odin Recipes](./images/screenshot-odin-recipes.png)
+![screencapture-vestal2k-github-io-odin-recipes-2025-06-13-07_11_35](https://github.com/user-attachments/assets/0d21b5e0-ba5b-4fce-8a12-1ac59d93fed4)
+![screencapture-vestal2k-github-io-odin-recipes-recipes-lasagnes-html-2025-06-13-07_11_40](https://github.com/user-attachments/assets/59225463-d385-4733-b647-c5b502b93b3a)
+![screencapture-vestal2k-github-io-odin-recipes-recipes-crepes-html-2025-06-13-07_11_45](https://github.com/user-attachments/assets/cfe048c4-58c0-46a2-94d0-27a40cedd771)
+![screencapture-vestal2k-github-io-odin-recipes-recipes-pizza-html-2025-06-13-07_11_50](https://github.com/user-attachments/assets/5001b0dd-fc92-4e55-a1c9-4dcebe6694be)
+
 
 ---
 
