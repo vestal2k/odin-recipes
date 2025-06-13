@@ -1,40 +1,44 @@
 # Odin Recipes Project
 
-## À propos de ce projet
+## 📖 À propos de ce projet
 
-Ce projet est ma première réalisation dans le cadre du cursus de The Odin Project. L'objectif est de construire un site web simple, composé de plusieurs pages HTML, pour présenter quelques recettes de cuisine.
+Ce projet est ma toute première application web statique, réalisée dans le cadre du cursus "Foundations" de The Odin Project. L'objectif était de construire un site simple de recettes de cuisine en utilisant uniquement des compétences fondamentales en HTML.
 
-C'est une mise en pratique des compétences fondamentales en HTML pour structurer le contenu d'une page web.
+Ce projet démontre ma capacité à structurer un contenu web sur plusieurs pages et à utiliser les balises sémantiques de base.
 
-**(Lien vers le site live sera ajouté ici une fois le projet déployé)**
-
-![Capture d'écran du projet sera ajoutée ici]
+**Lien vers le site en direct :** [https://vestal2k.github.io/odin-recipes/](https://vestal2k.github.io/odin-recipes/)
 
 ---
 
-### Construit avec
+## 📸 Aperçu
+
+![Capture d'écran de la page d'accueil du projet Odin Recipes](./images/screenshot-odin-recipes.png)
+
+---
+
+### 🛠️ Construit avec
 
 * HTML5 Sémantique
 
 ---
 
-### Compétences Démontrées
+### 🔥 Compétences Démontrées
 
-En réalisant ce projet, j'aurai démontré ma capacité à :
-* Créer la structure de base d'un document HTML.
-* Utiliser les différents niveaux de titres (`<h1>`, `<h2>`, etc.).
-* Insérer et manipuler des images, en utilisant des attributs pertinents comme `alt`.
-* Créer des listes ordonnées (`<ol>`) et non ordonnées (`<ul>`) pour structurer des informations.
-* Mettre en place des liens hypertextes (`<a>`) pour naviguer entre les différentes pages du site et vers des sites externes.
-
----
-
-### Ce que j'ai appris
-
-*(Cette section sera remplie à la fin du projet pour faire le bilan de mes apprentissages et des difficultés rencontrées.)*
+* **Structure HTML :** Création de documents HTML5 valides.
+* **Navigation :** Mise en place de liens relatifs pour naviguer entre les pages du site.
+* **Contenu :** Utilisation des titres, paragraphes, et listes (`<ol>`, `<ul>`) pour organiser l'information.
+* **Médias :** Intégration d'images avec des chemins relatifs et des attributs `alt` pour l'accessibilité.
+* **Workflow Git :** Utilisation de Git et GitHub pour le versioning, avec des messages de commit clairs et atomiques.
 
 ---
 
-### Remerciements
+### 🧠 Ce que j'ai appris
 
-Ce projet a été réalisé en suivant les instructions du cursus de **The Odin Project**.
+*(C'est la section la plus importante pour toi. Prends 5 minutes pour la remplir. Exemple :)*
+Ce projet a solidifié ma compréhension de la structure de base d'un site web. J'ai particulièrement appris l'importance des chemins relatifs (`../`) pour que les liens et les images fonctionnent correctement dans une arborescence de fichiers. La pratique du workflow Git `add/commit/push` sur un projet concret m'a également beaucoup apporté.
+
+---
+
+### 🙏 Remerciements
+
+Ce projet a été réalisé en suivant les instructions et la philosophie de **The Odin Project**.
